@@ -11,3 +11,9 @@ __pycache__/
 
 # celery
 celerybeat*
+
+# Personal Notes
+postgres_*.txt
+
+# environment manager
+.env
