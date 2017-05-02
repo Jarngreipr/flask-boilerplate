@@ -17,3 +17,6 @@ postgres_*.txt
 
 # environment manager
 .env
+
+# Editor files
+*.swp
